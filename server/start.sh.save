@@ -1,0 +1,5 @@
+# install node-modules first
+npm install
+
+#starting app
+npm start
